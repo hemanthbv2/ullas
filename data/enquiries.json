@@ -1,0 +1,38 @@
+[
+  {
+    "reference_id": "ELR-2026-000A52",
+    "name": "Sarah Connor",
+    "email": "sarah.connor@example.com",
+    "phone": "+1 (555) 234-5678",
+    "program": "B.Tech in Artificial Intelligence & Data Science",
+    "intake": "Fall 2026 (Early Action)",
+    "gpa": "3.85 GPA / 92%",
+    "message": "Interested in robotics lab facilities and merit fellowship options.",
+    "submitted_at": "2026-10-16T11:33:58.185625",
+    "status": "Under Counselor Review"
+  },
+  {
+    "reference_id": "RVITM-2026-BE43E0",
+    "name": "ullas",
+    "email": "ullas@gmail.com",
+    "phone": "+91 123456789",
+    "program": "B.E. in Artificial Intelligence & Machine Learning",
+    "intake": "Academic Year 2026-2027 (Management Merit)",
+    "gpa": "56",
+    "message": "",
+    "submitted_at": "2026-10-16T12:02:17.599555",
+    "status": "Under Counselor Review"
+  },
+  {
+    "reference_id": "RVITM-2026-276603",
+    "name": "ullas",
+    "email": "yhyyhy@gmail.com",
+    "phone": "+91 123456789",
+    "program": "B.E. in Artificial Intelligence & Machine Learning",
+    "intake": "Academic Year 2026-2027 (Management Merit)",
+    "gpa": "56",
+    "message": "",
+    "submitted_at": "2026-10-16T12:12:24.482897",
+    "status": "Under Counselor Review"
+  }
+]

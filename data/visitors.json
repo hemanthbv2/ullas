@@ -1,0 +1,23 @@
+[
+  {
+    "email": "student.rvitm@gmail.com",
+    "name": "Rohan Verma",
+    "branch_interest": "B.E. in Computer Science & Engineering",
+    "registered_at": "2026-10-16T11:48:20.020199",
+    "source": "AI Chatbot Gateway"
+  },
+  {
+    "email": "ullask@gmail.com",
+    "name": "ullas",
+    "branch_interest": "",
+    "registered_at": "2026-10-16T11:49:20.839025",
+    "source": "AI Chatbot Gateway"
+  },
+  {
+    "email": "pooja.reddy@gmail.com",
+    "name": "Pooja Reddy",
+    "branch_interest": "B.E. in Artificial Intelligence & Machine Learning",
+    "registered_at": "2026-10-16T12:03:57.555961",
+    "source": "AI Chatbot Gateway"
+  }
+]

@@ -1,0 +1,171 @@
+{
+  "university": {
+    "name": "R.V Institute of Technology and Management (RVITM)",
+    "short_name": "RVITM",
+    "trust": "Rashtreeya Sikshana Samithi Trust (RSST)",
+    "motto": "Excellence in Technical Education & Global Innovation",
+    "established": 2019,
+    "accreditation": "Approved by AICTE, New Delhi & Affiliated to Visvesvaraya Technological University (VTU), Belagavi",
+    "location": "Chaithanya Layout, 8th Phase, J. P. Nagar, Bengaluru, Karnataka 560076, India",
+    "contact": {
+      "admission_email": "admissions@rvitm.edu.in",
+      "general_email": "info@rvitm.edu.in",
+      "phone": "+91 80 6813 6555 / +91 94808 49494",
+      "whatsapp": "+91 94808 49494",
+      "office_hours": "Monday - Saturday: 9:00 AM - 5:30 PM IST"
+    },
+    "key_stats": {
+      "placement_rate": "98.2%",
+      "highest_package": "₹54.5 LPA",
+      "average_package": "₹14.8 LPA",
+      "alumni_count": "Centralized RV Ecosystem Network (50,000+ Alumni)",
+      "faculty_phd_ratio": "92%",
+      "partner_universities": "Global Co-ops & Tech Industry Centers of Excellence"
+    }
+  },
+  "programs": [
+    {
+      "id": "be-cse",
+      "name": "B.E. in Computer Science & Engineering",
+      "degree": "Bachelor of Engineering (VTU)",
+      "level": "Undergraduate",
+      "duration": "4 Years (8 Semesters)",
+      "annual_tuition": "KCET Govt: ₹98,000 / COMEDK: ₹2,64,000 / Mgmt Quota Available",
+      "overview": "Flagship engineering program covering Advanced Computing, Cloud Architecture, Distributed Systems, Full-Stack Development, and Algorithmic Intelligence with RV industry incubation.",
+      "eligibility": "10+2 / Pre-University (PUC) with Physics and Mathematics as compulsory subjects along with Chemistry/Bio-Tech/CS. Minimum 50% marks in aggregate. KCET, COMEDK, or Management Entrance.",
+      "career_roles": ["Software Development Engineer", "Cloud Systems Architect", "Full Stack Developer", "Systems Specialist"],
+      "seats": 180,
+      "featured": true
+    },
+    {
+      "id": "be-aiml",
+      "name": "B.E. in Artificial Intelligence & Machine Learning",
+      "degree": "Bachelor of Engineering (VTU)",
+      "level": "Undergraduate",
+      "duration": "4 Years (8 Semesters)",
+      "annual_tuition": "KCET Govt: ₹98,000 / COMEDK: ₹2,64,000 / Mgmt Quota Available",
+      "overview": "Rigorous specialization in Deep Learning, Generative AI, Natural Language Processing, Computer Vision, and Predictive Analytics in modern GPU labs.",
+      "eligibility": "10+2 / 12th standard with Physics & Mathematics. Minimum 50% aggregate score (45% for reserved categories). KCET / COMEDK rank.",
+      "career_roles": ["AI Research Engineer", "Machine Learning Specialist", "Data Scientist", "NLP Engineer"],
+      "seats": 120,
+      "featured": true
+    },
+    {
+      "id": "be-ise",
+      "name": "B.E. in Information Science & Engineering",
+      "degree": "Bachelor of Engineering (VTU)",
+      "level": "Undergraduate",
+      "duration": "4 Years (8 Semesters)",
+      "annual_tuition": "KCET Govt: ₹98,000 / COMEDK: ₹2,64,000 / Mgmt Quota Available",
+      "overview": "Focuses on Software Engineering, Information Security, Data Structures, Networking Systems, Big Data Analytics, and Web Technologies.",
+      "eligibility": "10+2 / PUC with Physics and Mathematics as core subjects. Minimum 50% aggregate.",
+      "career_roles": ["Information Systems Engineer", "Data Security Analyst", "Backend Engineer", "DevOps Engineer"],
+      "seats": 120,
+      "featured": true
+    },
+    {
+      "id": "be-ece",
+      "name": "B.E. in Electronics & Communication Engineering",
+      "degree": "Bachelor of Engineering (VTU)",
+      "level": "Undergraduate",
+      "duration": "4 Years (8 Semesters)",
+      "annual_tuition": "KCET Govt: ₹98,000 / COMEDK: ₹2,35,000 / Mgmt Quota Available",
+      "overview": "Comprehensive curriculum spanning VLSI Design, Embedded Systems, IoT, Digital Signal Processing, RF Communication, and Robotics.",
+      "eligibility": "10+2 with Physics, Mathematics, and Chemistry/Electronics. Minimum 50% aggregate.",
+      "career_roles": ["VLSI Design Engineer", "Embedded Systems Developer", "IoT Solutions Specialist", "Telecom Network Engineer"],
+      "seats": 60,
+      "featured": true
+    },
+    {
+      "id": "mtech-cse",
+      "name": "M.Tech in Advanced Computer Science & Engineering",
+      "degree": "Master of Technology (VTU)",
+      "level": "Postgraduate",
+      "duration": "2 Years (4 Semesters)",
+      "annual_tuition": "PGCET / GATE: ₹95,000 / Mgmt: ₹1,50,000",
+      "overview": "Research-oriented post-graduate program emphasizing Distributed Computing, Cybersecurity, and Scalable Architectures with industry sponsored capstone projects.",
+      "eligibility": "B.E. / B.Tech in CSE / ISE / IT / ECE with minimum 50% marks (45% for reserved category). Valid GATE / Karnataka PGCET score.",
+      "career_roles": ["Principal Systems Architect", "Senior Research Engineer", "Technical Lead"],
+      "seats": 30,
+      "featured": false
+    }
+  ],
+  "admissions": {
+    "deadlines": [
+      {
+        "intake": "Academic Year 2026-2027",
+        "round": "Management & Institutional Merit Round",
+        "deadline_date": "July 31, 2026",
+        "decision_date": "Rolling Admissions",
+        "scholarship_priority": "High (Merit Fee Concessions)"
+      },
+      {
+        "intake": "KCET Round 2026",
+        "round": "KEA Karnataka CET Counseling",
+        "deadline_date": "As per KEA Notification",
+        "decision_date": "Seat Allotment Rounds",
+        "scholarship_priority": "Government Subsidized"
+      },
+      {
+        "intake": "COMEDK Round 2026",
+        "round": "All India Merit Counseling",
+        "deadline_date": "As per COMEDK Calendar",
+        "decision_date": "Online Seat Allotment",
+        "scholarship_priority": "Merit Ranked"
+      }
+    ],
+    "application_steps": [
+      "Step 1: Provide your Email ID & basic details via the Online Admission Enquiry Form or AI Assistant.",
+      "Step 2: Submit 10th and 12th / PUC marks cards along with your KCET / COMEDK / JEE scorecard.",
+      "Step 3: Attend counseling and merit seat evaluation with the RVITM Admissions Board at the JP Nagar campus or virtually.",
+      "Step 4: Receive your Provisional Seat Allotment Letter and complete fee remittance.",
+      "Step 5: Report to the campus for document verification and commencement of the academic semester."
+    ],
+    "documents_required": [
+      "10th Standard / SSLC Marks Card (Proof of Date of Birth)",
+      "12th Standard / PUC Marks Card",
+      "KCET / COMEDK / Standardized Rank Scorecard",
+      "Transfer Certificate (TC) & Migration Certificate (if outside Karnataka)",
+      "Study Certificate & Caste / Income Certificate (if claiming reservation quota)",
+      "Recent Passport Size Photographs (6 copies) & Govt ID Proof (Aadhaar / Passport)"
+    ]
+  },
+  "scholarships": [
+    {
+      "name": "RSST Merit Academic Excellence Scholarship",
+      "coverage": "Up to 50% Tuition Fee Concession",
+      "eligibility": "Students scoring 95%+ in 10+2 / PUC or holding top 1,000 ranks in KCET / COMEDK.",
+      "perks": "Mentorship by senior research faculty and priority industry co-op placement."
+    },
+    {
+      "name": "Girls in Engineering (STEM) Grant",
+      "coverage": "Special Tuition Concession & Lab Access",
+      "eligibility": "Meritorious female engineering applicants enrolling in CSE, AI & ML, and ISE.",
+      "perks": "Access to RV Women in Technology leadership conclaves."
+    },
+    {
+      "name": "Sports & National Talent Laureate Award",
+      "coverage": "Concessions on Tuition & Hostel Fees",
+      "eligibility": "National or State level medal winners in sports, robotics olympiads, or hackathons.",
+      "perks": "Subsidized campus athletic training and flexible academic scheduling."
+    },
+    {
+      "name": "Government Social Welfare & Fee Reimbursement",
+      "coverage": "Full / Partial Reimbursement via State Portals",
+      "eligibility": "Eligible SC/ST/OBC/EWS candidates as per Karnataka State Government norms.",
+      "perks": "Facilitated through dedicated RVITM Scholarship Desk."
+    }
+  ],
+  "campus_life": {
+    "accommodation": "Separate well-furnished hostels for boys and girls with 24/7 high-speed Wi-Fi, CCTV security, biometric access, hygienic food, and power backup.",
+    "dining": "Multi-cuisine hygienic campus cafeteria and student mess serving balanced vegetarian and nutritional meals.",
+    "sports_recreation": "Indoor sports complex, badminton courts, gymnasium, table tennis, basketball court, and outdoor turf facilities.",
+    "clubs": "Active student bodies including IEEE Student Branch, Google Developer Groups on Campus, Coding Club, Robotics & IoT Club, Rotaract, and Cultural Fests."
+  },
+  "placement_highlights": {
+    "placement_percentage": "98.2%",
+    "median_salary": "₹14.8 LPA",
+    "highest_salary": "₹54.5 LPA",
+    "top_recruiters": ["Microsoft", "Amazon", "Cisco", "Bosch", "Intel", "Infosys", "Wipro", "TCS", "Accenture", "Mercedes-Benz R&D", "Oracle", "Goldman Sachs"]
+  }
+}
